@@ -13,5 +13,8 @@
 !/log/.keep
 !/tmp/.keep
 
+#Enviroment Variables
+.env-prod
+
 # Ignore Byebug command history file.
 .byebug_history
