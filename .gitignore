@@ -13,6 +13,11 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ignore precompiled javascript packs
+/public/packs
+/public/packs-test
+/public/assets
+
 #Enviroment Variables
 .env-prod
 
